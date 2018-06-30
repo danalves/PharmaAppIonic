@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "categoria": "medicamento",
+      "nome": "Tylenol 500mg 24 Comprimidos",
+      "imgP": "assets/imgs/tylenolP.jpg",
+      "imgG": "assets/imgs/tylenolGrande.jpg"
+    },
+    {
+      "id": 2,
+      "categoria": "medicamento",
+      "nome": "Neosoro Adulto 30ml",
+      "imgP": "assets/imgs/neosoroP.jpg",
+      "imgG": "assets/imgs/neosoroGrande.jpg"
+    },
+    {
+      "id": 3,
+      "categoria": "medicamento",
+      "nome": "Rinosoro 30ml",
+      "imgP": "assets/imgs/rinosoroP.jpg",
+      "imgG": "assets/imgs/rinosoroGrande.jpg"
+    },
+    {
+      "id": 4,
+      "categoria": "medicamento",
+      "nome": "Benegripe 20 Comprimidos",
+      "imgP": "assets/imgs/benegripeP.jpg",
+      "imgG": "assets/imgs/benegripeGrande.jpg"
+    },
+    {
+      "id": 5,
+      "categoria": "higiene",
+      "nome": "Cotonetes Johnson's 150 unidades",
+      "imgP": "assets/imgs/cotonetesP.jpg",
+      "imgG": "assets/imgs/cotonetesGrande.jpg"
+    },
+    {
+      "id": 6,
+      "categoria": "higiene",
+      "nome": "Antisséptico Bucal Listerine 500ml",
+      "imgP": "assets/imgs/listerineP.jpg",
+      "imgG": "assets/imgs/listerineGrande.jpg"
+    },
+    {
+      "id": 7,
+      "categoria": "higiene",
+      "nome": "Kit 3 Escova Dental Colgate",
+      "imgP": "assets/imgs/escovaP.jpg",
+      "imgG": "assets/imgs/escovaGrande.jpg"
+    },
+    {
+      "id": 8,
+      "categoria": "higiene",
+      "nome": "Sabonete Dove Men Care 90g",
+      "imgP": "assets/imgs/saboneteP.jpg",
+      "imgG": "assets/imgs/saboneteGrande.jpg"
+    },
+    {
+      "id": 9,
+      "categoria": "estetica",
+      "nome": "Creme Nivea lata 29g",
+      "imgP": "assets/imgs/cremeP.jpg",
+      "imgG": "assets/imgs/cremeGrande.jpg"
+    },
+    {
+      "id": 10,
+      "categoria": "estetica",
+      "nome": "Aparelho de Barbear Gillette",
+      "imgP": "assets/imgs/aparelhoBarbearP.jpg",
+      "imgG": "assets/imgs/aparelhoBarbearGrande.jpg"
+    },
+    {
+      "id": 11,
+      "categoria": "estetica",
+      "nome": "Espuma de Barbear Gillette",
+      "imgP": "assets/imgs/espumaBarbearP.jpg",
+      "imgG": "assets/imgs/espumaBarbearGrande.jpg"
+    },
+    {
+      "id": 12,
+      "categoria": "estetica",
+      "nome": "Creme Depilatório Veet",
+      "imgP": "assets/imgs/depilatorioP.jpg",
+      "imgG": "assets/imgs/depilatorioGrande.jpg"
+    }
+  ]
+}

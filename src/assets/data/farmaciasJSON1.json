@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "nome": "Farma Mais",
+      "valor": 20.50,
+      "tempo": "00:30"
+    },
+    {
+      "id": 2,
+      "nome": "Droga Super",
+      "valor": 18.99,
+      "tempo": "00:27"
+    },
+    {
+      "id": 3,
+      "nome": "PharmaDroga",
+      "valor": 24.59,
+      "tempo": "00:15"
+    },
+    {
+      "id": 4,
+      "nome": "Drogaria + você",
+      "valor": 22.10,
+      "tempo": "00:20"
+    }
+  ]
+}
